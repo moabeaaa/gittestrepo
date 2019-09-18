@@ -1,0 +1,16 @@
+*,
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.backgroundcolor {
+    background-color: #dffc00;
+}
+
+.textcolor {
+    color: #939344;
+}
